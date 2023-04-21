@@ -16,7 +16,7 @@
   Link to the deployed webpage: https://reethd.github.io/CSS-Code-Refactor/
 
   ## Installation
-  No installation needed! Just clone the code and run a live server on your local host.
+  No installation needed! 
 
   ## Usage
   The code here can be used as a reference for keeping CSS code clean and non-repetetive.
